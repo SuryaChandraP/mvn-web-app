@@ -18,4 +18,4 @@
 
 --%>
 
-<h2> WAR file Deployemnt in S3 Bucket V2.1</h2>
+<h2> WAR file Deployemnt in S3 Bucket V2.2</h2>
